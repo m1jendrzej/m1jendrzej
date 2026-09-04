@@ -8,7 +8,7 @@ I like building things that combine **software, electronics and mechanics**.
 
 Most of my current work is focused on embedded systems, but I also enjoy robotics, computer vision, control systems and mechanical design.
 
-`C` `C++` `ESP32` `STM32` `FreeRTOS` `KiCad`
+`C` `C++` `ESP32` `STM32` `FreeRTOS` `KiCad` 'RaspberryPi'
 
 Warsaw, Poland
 
@@ -32,9 +32,9 @@ At the moment I'm mostly exploring:
 
 ### Embedded & Electronics
 
-`C` · `C++` · `ESP32` · `ESP8266` · `STM32` · `Arduino` · `FreeRTOS`
+`C` · `C++` · `ESP32` · `ESP8266` · `STM32` · 'RaspberryPi' · `FreeRTOS`
 
-`I²C` · `SPI` · `UART` · `PWM` · `ADC` · `KiCad`
+`I²C` · `SPI` · `UART` · `PWM` · `ADC` · `KiCad` 
 
 
 ### Robotics & Control
