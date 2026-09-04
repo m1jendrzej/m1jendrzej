@@ -110,4 +110,5 @@ ESP32-C6
 ## Contact
 
 **GitHub:** [m1jendrzej](https://github.com/m1jendrzej)
+**E-mail:** mjendrzej03@gmail.com
 **Location:** Warsaw, Poland
