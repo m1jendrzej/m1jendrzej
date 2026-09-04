@@ -8,9 +8,19 @@ I like building things that combine **software, electronics and mechanics**.
 
 Most of my current work is focused on embedded systems, but I also enjoy robotics, computer vision, control systems and mechanical design.
 
-`C` `C++` `ESP32` `STM32` `FreeRTOS` `KiCad` `RaspberryPi`
+<br>
 
-Warsaw, Poland
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge\&logo=c\&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge\&logo=cplusplus\&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge\&logo=espressif\&logoColor=white)
+![STM32](https://img.shields.io/badge/STM32-03234B?style=for-the-badge\&logo=stmicroelectronics\&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge\&logo=raspberrypi\&logoColor=white)
+![KiCad](https://img.shields.io/badge/KiCad-314CB0?style=for-the-badge\&logo=kicad\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+<br>
+
+**Warsaw, Poland**
 
 </div>
 
@@ -24,7 +34,7 @@ I like learning how things work at a lower level — how sensors communicate, ho
 
 At the moment I'm mostly exploring:
 
-**embedded C/C++ · STM32 · FreeRTOS · electronics · control systems**
+> **Embedded C/C++ · STM32 · FreeRTOS · Electronics · Control Systems**
 
 ---
 
@@ -32,20 +42,17 @@ At the moment I'm mostly exploring:
 
 ### Embedded & Electronics
 
-`C` · `C++` · `ESP32` · `ESP8266` · `STM32` · `RaspberryPi` · `FreeRTOS`
+`C` · `C++` · `ESP32` · `ESP8266` · `STM32` · `Raspberry Pi` · `FreeRTOS`
 
-`I²C` · `SPI` · `UART` · `PWM` · `ADC` · `KiCad` 
-
+`I²C` · `SPI` · `UART` · `PWM` · `ADC` · `KiCad`
 
 ### Robotics & Control
 
 `Python` · `ROS` · `ROS2` · `MATLAB` · `Simulink` · `Stateflow`
 
-
 ### Computer Vision & Machine Learning
 
 `OpenCV` · `TensorFlow` · `Keras` · `CNN`
-
 
 ### Mechanical Engineering
 
@@ -61,7 +68,9 @@ I also use **3D printing** for prototyping and mechanical parts.
 
 I'm using it mainly as a playground for embedded software, electronics and flight-control ideas.
 
-```text id="l3rw8k"
+### System overview
+
+```text
 ESP32-C6
    │
    ├── I²C ───── LSM6DSO IMU
@@ -80,9 +89,9 @@ ESP32-C6
 * FreeRTOS integration
 * flight-control algorithms
 
-The next steps are **sensor fusion, attitude estimation and PID-based stabilization**.
+**Next steps:** sensor fusion, attitude estimation and PID-based stabilization.
 
->The project repository will be available soon...
+> The project repository will be available soon...
 
 ---
 
@@ -95,6 +104,7 @@ The next steps are **sensor fusion, attitude estimation and PID-based stabilizat
 * better hardware–software integration
 
 ---
+
 
 ## Contact
 
