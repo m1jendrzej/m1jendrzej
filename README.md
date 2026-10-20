@@ -96,16 +96,6 @@ ESP32-C6
 
 ---
 
-## Things I want to explore more
-
-* lower-level STM32 programming
-* real-time systems
-* embedded software architecture
-* analog electronics
-* better hardware–software integration
-
----
-
 
 ## Contact
 
