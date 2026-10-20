@@ -49,7 +49,7 @@ At the moment I'm mostly exploring:
 
 ### Robotics & Control
 
-`Python` · `ROS` · `ROS2` · `MATLAB` · `Simulink` · `Stateflow`
+`Python` · `ROS/ROS2` · `MATLAB` · `Simulink` · `Stateflow`
 
 ### Computer Vision & Machine Learning
 
