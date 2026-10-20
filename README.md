@@ -57,7 +57,7 @@ At the moment I'm mostly exploring:
 
 ### Mechanical Engineering
 
-`SolidWorks` · `Fusion 360` · `Siemens NX` · `Inventor` · `AutoCAD` · `ANSYS Mechanical`
+`SolidWorks` · `Fusion 360` · `Siemens NX` · `Inventor` · `AutoCAD` · `ANSYS Mechanical` · `MSC Adams` 
 
 I also use **3D printing** for prototyping and mechanical parts.
 
